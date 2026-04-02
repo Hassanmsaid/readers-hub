@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847451079443",
+    "project_id": "readers-hub-750",
+    "storage_bucket": "readers-hub-750.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847451079443:android:92c9b8a59e6ad492c6d0e6",
+        "android_client_info": {
+          "package_name": "com.hassan.readershub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPMLWgcMc9SYYcTlBF69pQnQGi35dhx8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
